@@ -1,0 +1,189 @@
+{
+  "v4_lr5.0e-04_r32_stage2_lr5e-4_r32": {
+    "accuracy": 0.86,
+    "config": {
+      "experiment_name": "stage2_lr5e-4_r32",
+      "prompt_version": "v4",
+      "learning_rate": 0.0005,
+      "lora_r": 32,
+      "lora_alpha": 64,
+      "sample_size": 10000,
+      "max_steps": 2000,
+      "num_epochs": 1,
+      "final_loss": 0.0002641238115884207,
+      "validation_accuracy": 0.86,
+      "timestamp": "2025-10-31T19:18:49.225797",
+      "model_path": "/content/drive/MyDrive/colab_math_sft/stage2_lr5e-4_r32/final_model"
+    }
+  },
+  "v4_lr1.0e-04_r8_stage2_lr1e-4_r8": {
+    "accuracy": 0.796,
+    "config": {
+      "experiment_name": "stage2_lr1e-4_r8",
+      "prompt_version": "v4",
+      "learning_rate": 0.0001,
+      "lora_r": 8,
+      "lora_alpha": 16,
+      "sample_size": 10000,
+      "max_steps": 600,
+      "num_epochs": 1,
+      "final_loss": 0.7254393259684245,
+      "validation_accuracy": 0.796,
+      "timestamp": "2025-10-31T21:22:58.262522",
+      "model_path": "/content/drive/MyDrive/colab_math_sft/stage2_lr1e-4_r8/final_model"
+    }
+  },
+  "v4_lr2.0e-04_r16_stage2_lr2e-4_r16": {
+    "accuracy": 0.81,
+    "config": {
+      "experiment_name": "stage2_lr2e-4_r16",
+      "prompt_version": "v4",
+      "learning_rate": 0.0002,
+      "lora_r": 16,
+      "lora_alpha": 32,
+      "sample_size": 10000,
+      "max_steps": 600,
+      "num_epochs": 1,
+      "final_loss": 0.8784816439946492,
+      "validation_accuracy": 0.81,
+      "timestamp": "2025-10-31T22:30:29.056237",
+      "model_path": "/content/drive/MyDrive/colab_math_sft/stage2_lr2e-4_r16/final_model"
+    }
+  },
+  "v4_lr5.0e-04_r32_stage2_lr5e-4_r32_samll": {
+    "accuracy": 0.809,
+    "config": {
+      "experiment_name": "stage2_lr5e-4_r32_samll",
+      "prompt_version": "v4",
+      "learning_rate": 0.0005,
+      "lora_r": 32,
+      "lora_alpha": 64,
+      "sample_size": 10000,
+      "max_steps": 600,
+      "num_epochs": 1,
+      "final_loss": 0.8095201762517293,
+      "validation_accuracy": 0.809,
+      "timestamp": "2025-11-01T02:50:44.446787",
+      "model_path": "/content/drive/MyDrive/colab_math_sft/stage2_lr5e-4_r32_samll/final_model"
+    }
+  },
+  "v4_lr5.0e-04_r16_stage2_lr5e-4_r16_10k": {
+    "accuracy": 0.811,
+    "config": {
+      "experiment_name": "stage2_lr5e-4_r16_10k",
+      "prompt_version": "v4",
+      "learning_rate": 0.0005,
+      "lora_r": 16,
+      "lora_alpha": 32,
+      "sample_size": 10000,
+      "max_steps": 600,
+      "num_epochs": 1,
+      "final_loss": 0.8301409482955933,
+      "validation_accuracy": 0.811,
+      "timestamp": "2025-11-01T04:23:59.118004",
+      "model_path": "/content/drive/MyDrive/colab_math_sft/stage2_lr5e-4_r16_10k/final_model"
+    }
+  },
+  "v4_lr6.0e-04_r32_stage2_lr6e-4_r32_50k": {
+    "accuracy": 0.8546,
+    "config": {
+      "experiment_name": "stage2_lr6e-4_r32_50k",
+      "prompt_version": "v4",
+      "learning_rate": 0.0006,
+      "lora_r": 32,
+      "lora_alpha": 64,
+      "sample_size": 50000,
+      "max_steps": 2000,
+      "num_epochs": 1,
+      "final_loss": 0.32919300031661985,
+      "validation_accuracy": 0.8546,
+      "timestamp": "2025-11-01T18:48:45.085913",
+      "model_path": "/content/drive/MyDrive/colab_math_sft/stage2_lr6e-4_r32_50k/final_model"
+    }
+  },
+    "v4_lr3.0e-04_r16_stage2_baseline": {
+    "accuracy": 0.806,
+    "config": {
+      "experiment_name": "stage2_baseline",
+      "prompt_version": "v4",
+      "learning_rate": 0.0003,
+      "lora_r": 16,
+      "lora_alpha": 32,
+      "sample_size": 10000,
+      "max_steps": 2000,
+      "num_epochs": 1,
+      "final_loss": 0.5297856781482696,
+      "validation_accuracy": 0.806,
+      "timestamp": "2025-10-31T16:14:29.362143",
+      "model_path": "/content/drive/MyDrive/colab_math_sft/stage2_baseline/final_model"
+    }
+  },
+  "v4_lr1.0e-04_r16_stage2_lr1e-4": {
+    "accuracy": 0.797,
+    "config": {
+      "experiment_name": "stage2_lr1e-4",
+      "prompt_version": "v4",
+      "learning_rate": 0.0001,
+      "lora_r": 16,
+      "lora_alpha": 32,
+      "sample_size": 10000,
+      "max_steps": 2000,
+      "num_epochs": 1,
+      "final_loss": 0.5203191866874695,
+      "validation_accuracy": 0.797,
+      "timestamp": "2025-10-31T21:39:32.183472",
+      "model_path": "/content/drive/MyDrive/colab_math_sft/stage2_lr1e-4/final_model"
+    }
+  },
+  "v4_lr5.0e-04_r16_stage2_lr5e-4": {
+    "accuracy": 0.81,
+    "config": {
+      "experiment_name": "stage2_lr5e-4",
+      "prompt_version": "v4",
+      "learning_rate": 0.0005,
+      "lora_r": 16,
+      "lora_alpha": 32,
+      "sample_size": 10000,
+      "max_steps": 2000,
+      "num_epochs": 1,
+      "final_loss": 0.5151994762420654,
+      "validation_accuracy": 0.81,
+      "timestamp": "2025-11-01T01:15:24.676826",
+      "model_path": "/content/drive/MyDrive/colab_math_sft/stage2_lr5e-4/final_model"
+    }
+  },
+  "v4_lr7.0e-04_r32_stage2_lr7e-4_r32": {
+    "accuracy": 0.818,
+    "config": {
+      "experiment_name": "stage2_lr7e-4_r32",
+      "prompt_version": "v4",
+      "learning_rate": 0.0007,
+      "lora_r": 32,
+      "lora_alpha": 64,
+      "sample_size": 10000,
+      "max_steps": 600,
+      "num_epochs": 1,
+      "final_loss": 0.8177885850270589,
+      "validation_accuracy": 0.818,
+      "timestamp": "2025-11-01T03:00:41.557830",
+      "model_path": "/content/drive/MyDrive/colab_math_sft/stage2_lr7e-4_r32/final_model"
+    }
+  },
+  "v4_lr7.0e-04_r32_stage2_lr7e-4_r32_50k_2000": {
+    "accuracy": 0.855,
+    "config": {
+      "experiment_name": "stage2_lr7e-4_r32_50k_2000",
+      "prompt_version": "v4",
+      "learning_rate": 0.0007,
+      "lora_r": 32,
+      "lora_alpha": 64,
+      "sample_size": 50000,
+      "max_steps": 2000,
+      "num_epochs": 1,
+      "final_loss": 0.7946682810783386,
+      "validation_accuracy": 0.855,
+      "timestamp": "2025-11-01T14:00:38.303920",
+      "model_path": "/content/drive/MyDrive/colab_math_sft/stage2_lr7e-4_r32_50k_2000/final_model"
+    }
+  }
+}
