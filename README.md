@@ -1,5 +1,5 @@
 Yuxin Jiang (yj3035)
-Yunjie Wei (wy8964)
+Yunjie Wei (yw8964)
 Yihan Cao (yc7683)
 
 I. 1_compare_parameters.ipynb contains the code for finding the optimal parameters.
