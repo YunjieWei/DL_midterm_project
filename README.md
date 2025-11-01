@@ -1,3 +1,7 @@
+Yuxin Jiang (yj3035)
+Yunjie Wei (wy8964)
+Yihan Cao (yc7683)
+
 I. 1_compare_parameters.ipynb contains the code for finding the optimal parameters.
 In stage1, we determine the best Prompt, and through this process, we confirmed that V4 is the optimal one.
 The subsequent code is used to find the best parameters corresponding to V4.
