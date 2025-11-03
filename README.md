@@ -15,3 +15,5 @@ The function run_stage1() is taken from the first notebook and is only used duri
 IV. 4_example.zip contains some of the corresponding submission.csv.
 
 V. 5_experiment_results.json stores the accuracy results obtained under different parameter configurations.
+
+VI。model weights :https://drive.google.com/drive/folders/19SEcaLNZcriiBkrFH1vg68hQ2p7kuuF4?usp=sharing
